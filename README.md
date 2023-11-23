@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Ticketing System API**
 
-- 🌱 I’m currently learning **TypeScript, AWS**
+- 🌱 I’m currently learning **React, AWS**
 
 - 💬 Ask me about **Web Development**
 
