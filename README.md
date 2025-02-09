@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos Antunes</h1>
-<h3 align="center">a highly motivated backend developer currently enrolled at Brigham Young University Idaho, where I actively pursue a bachelor's degree in Applied Technology.</h3>
+<h3 align="center">a highly motivated web full-stack developer currently enrolled at Brigham Young University Idaho, where I actively pursue a bachelor's degree in Software Development.</h3>
 
 - 🔭 I’m currently working on **Full Stack project called Blog Sphere Network**
 
