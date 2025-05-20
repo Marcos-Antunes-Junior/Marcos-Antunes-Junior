@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcos Antunes</h1>
 <h3 align="center">a full-stack web developer who’s passionate about turning ideas into real, functional software. I'm currently working at Sinapse, where I help build web solutions that make a difference, while also pursuing my Bachelor’s degree in Software Development at Brigham Young University–Idaho.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcos-antunes-junior" alt="marcos-antunes-junior" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marcos-aaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-aaj" height="30" width="40" /></a>
